@@ -195,7 +195,7 @@ themeButton.addEventListener('click', () => {
 })
 // TYPING ANIMATION SCRIPT
 let typed = new Typed(".typing", {
-    strings: ["Jnr Frontend Developer", "UI/UX Designer", "Freelancer", "Jnr Data Scientist"],
+    strings: ["Jnr Backend Developer", "UI/UX Designer", "Freelancer", "Data Analyst."],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true,
