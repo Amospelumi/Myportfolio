@@ -442,61 +442,48 @@ nav{
     to {width: 90%;}
 }
 .skills__html{
-    width: 0%;
-    animation-name: example;
-    animation-duration: 2s;
-    animation-fill-mode: forwards;
+    width: 50%;
+
 }
 .skills__css{
-    width: 80%;
+    width: 50%;
 }
 .skills__js{
-    width: 70%;
+    width: 20%;
 }
-.skills__react{
-    width: 40%;
+.skills__jquery{
+    width: 30%;
 }
 .skills__git{
-    width: 80%;
+    width: 50%;
 }
 
 .skills__php{
-    width: 60%;
+    width: 50%;
 }
 .skills__laravel{
-    width: 30%;
-}
-.skills__node{
     width: 10%;
 }
+/* .skills__node{
+    width: 10%;
+} */
 .skills__mysql{
-    width: 60%;
+    width: 30%;
 }
-.skills__graphql{
-    width: 0;
-}
+
 
 
 .skills__figma{
-    width: 60%;
+    width: 50%;
 }
-.skills__sketch{
-    width: 0;
-}
+
 
 
 .skills__python{
-    width: 60%;
-}
-.skills__machine-learning{
     width: 40%;
 }
-.skills__powerbi{
-    width: 30%;
-}
-.skills__deep-learning{
-    width: 0;
-}
+
+
 .skills__close .skills__list{
     height: 0;
     overflow: hidden;
